@@ -1,7 +1,7 @@
 # usama-portfolio
 
 
-this project is build with vite using yarn
+This project is build with vite using yarn
 
 
 for installation:
